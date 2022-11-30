@@ -1,4 +1,5 @@
  **P R E F I X     S U M**
+ <br/>
 [Read about prefix sum array](https://darrenyao.com/usacobook/cpp.pdf#page=60)
 **problems related to prefix sum array**
 symptoms : sum of subarray
