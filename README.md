@@ -1,12 +1,10 @@
- **P R E F I X     S U M**
+ <h1>P R E F I X     S U M</h1>
  <br/>
 [Read about prefix sum array](https://darrenyao.com/usacobook/cpp.pdf#page=60)
 **problems related to prefix sum array**
 symptoms : sum of subarray
 good tuts : 
 https://www.youtube.com/watch?v=20v8zSo2v18
-
-code :
 
 
  1. [1480.  Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) 
@@ -19,7 +17,7 @@ code :
  
  
  
- 
+ <hr/>
  
  1. **Sliding Window:**
  2. **Pallindrome**
